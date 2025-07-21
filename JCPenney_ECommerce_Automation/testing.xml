@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="JCPenney Test Suite">
+    <test name="Smoke Tests">
+        <classes>
+            <class name="com.jcpenney.tests.RegisterTest"/>
+            <class name="com.jcpenney.tests.LoginTest"/>
+             <class name="com.jcpenney.tests.SearchTest"/>
+             <class name="com.jcpenney.tests.ProductPageTest"/>
+             <class name="com.jcpenney.tests.AddToCartTest"/>
+        </classes>
+    </test>
+</suite>
