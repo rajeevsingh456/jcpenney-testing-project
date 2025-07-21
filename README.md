@@ -67,9 +67,9 @@ A comprehensive end-to-end QA Testing Project for the [JCPenney Website](https:/
 
 You’ll find screenshots for:
 
-- Bug evidence (in Bug_Report.xlsx)
+- Bug evidence 
 - Burp Suite vulnerabilities
-- Selenium test results (in `/Selenium_Automation/reports`)
+- Selenium test results
 - JMeter reports
 
 ---
@@ -86,7 +86,3 @@ You’ll find screenshots for:
 ## 📌 Summary
 
 This repository is a complete showcase of real-time QA skills — starting from test planning to advanced automation and performance/security testing. Ideal for demonstrating **hands-on QA capabilities** to hiring managers or interviewers.
-
----
-
-> ✅ Feel free to fork, clone, or use it as a template for your own QA portfolio project.
